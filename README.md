@@ -1,7 +1,7 @@
 
-#Authors
+# Authors
 
-##Project Manager
+## Project Manager
 
 - Full name: Bryan Flores
 - Email: floresb@sic.edu.ph # First_team_collab
