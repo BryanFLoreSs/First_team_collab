@@ -17,3 +17,7 @@
 - Full name: Greco Nonan
 - Email: nonang@sic.edu.ph
 
+## Member 3
+
+- Full name: Lebron James
+- Email: jamesl@sic.edu.ph
